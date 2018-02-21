@@ -10,3 +10,4 @@ How to use:
 - If you want to rerun the program, first run it.
   Paste the position you saved in folder_position.txt (or something similar) and hit Enter.
   The program should continue to run from that position.
+  The program is completed when there are 10 billion folders created.
